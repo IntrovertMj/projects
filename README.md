@@ -9,4 +9,4 @@ NLP topic labelling - Topic analysis is a Natural Language Processing (NLP) tech
 
 US Retail outlets - Mapping of US stores on a customizable map to be able to identify patterns and analyze store clusters with census data.
 
-Web Scraping - Zillow.com. Scraping property listings off property site zillow.com to build a retail api which incorporates geospatial analytics to give a detailed retail outlook of a region.
+Web Scraping - Zillow.com. Scraping property listings off property site zillow.com to build a retail api which incorporates geospatial analytics to give a detailed retail outlook of a region. Spiders - houses.py
